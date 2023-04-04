@@ -1,7 +1,7 @@
 #define CATCH_CONFIG_MAIN
 #include <catch2/catch.hpp>
 
-#include "project/tmp.hpp"
+#include <motions/tmp.hpp>
 
 TEST_CASE("Factorials are computed", "[factorial]")
 {
